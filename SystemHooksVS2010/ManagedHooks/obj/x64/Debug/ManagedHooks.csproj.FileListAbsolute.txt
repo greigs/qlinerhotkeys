@@ -1,0 +1,5 @@
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooks\bin\x64\Debug\Kennedy.ManagedHooks.dll
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooks\bin\x64\Debug\Kennedy.ManagedHooks.pdb
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooks\obj\x64\Debug\ManagedHooks.csprojResolveAssemblyReference.cache
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooks\obj\x64\Debug\Kennedy.ManagedHooks.dll
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooks\obj\x64\Debug\Kennedy.ManagedHooks.pdb

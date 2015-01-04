@@ -1,0 +1,9 @@
+﻿Build started 04/01/2015 16:04:25.
+     1>Project "C:\repo\qlinerhotkeys\SystemHooksVS2010\SystemHookCore\SystemHookCore.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         SystemHookCore.vcxproj -> C:\repo\qlinerhotkeys\SystemHooksVS2010\SystemHookCore\bin\x64\Debug\SystemHookCore.dll
+     1>Done Building Project "C:\repo\qlinerhotkeys\SystemHooksVS2010\SystemHookCore\SystemHookCore.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

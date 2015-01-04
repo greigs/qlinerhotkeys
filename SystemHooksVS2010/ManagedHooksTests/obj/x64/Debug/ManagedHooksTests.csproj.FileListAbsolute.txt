@@ -1,0 +1,8 @@
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooksTests\bin\x64\Debug\Kennedy.ManagedHooks.Tests.dll
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooksTests\bin\x64\Debug\Kennedy.ManagedHooks.Tests.pdb
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooksTests\bin\x64\Debug\Kennedy.ManagedHooks.dll
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooksTests\bin\x64\Debug\UnitedBinary.UnitTests.Framework.TestBasis.dll
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooksTests\bin\x64\Debug\Kennedy.ManagedHooks.pdb
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooksTests\obj\x64\Debug\ManagedHooksTests.csprojResolveAssemblyReference.cache
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooksTests\obj\x64\Debug\Kennedy.ManagedHooks.Tests.dll
+C:\repo\qlinerhotkeys\SystemHooksVS2010\ManagedHooksTests\obj\x64\Debug\Kennedy.ManagedHooks.Tests.pdb

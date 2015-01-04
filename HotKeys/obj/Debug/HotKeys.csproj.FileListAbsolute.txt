@@ -1,0 +1,12 @@
+C:\repo\qlinerhotkeys\HotKeys\obj\Debug\HotKeys.csprojResolveAssemblyReference.cache
+C:\repo\qlinerhotkeys\HotKeys\obj\Debug\HotKeys.HotKeysInstaller.resources
+C:\repo\qlinerhotkeys\HotKeys\obj\Debug\HotKeys.csproj.GenerateResource.Cache
+C:\repo\qlinerhotkeys\HotKeys\bin\Debug\HotKeys.exe
+C:\repo\qlinerhotkeys\HotKeys\bin\Debug\HotKeys.pdb
+C:\repo\qlinerhotkeys\HotKeys\bin\Debug\HotKeysLib.dll
+C:\repo\qlinerhotkeys\HotKeys\bin\Debug\Kennedy.ManagedHooks.dll
+C:\repo\qlinerhotkeys\HotKeys\bin\Debug\HotKeysLib.pdb
+C:\repo\qlinerhotkeys\HotKeys\obj\Debug\HotKeys.exe
+C:\repo\qlinerhotkeys\HotKeys\obj\Debug\HotKeys.pdb
+C:\repo\qlinerhotkeys\HotKeys\bin\Debug\HotKeys.exe.config
+C:\repo\qlinerhotkeys\HotKeys\bin\Debug\Kennedy.ManagedHooks.pdb

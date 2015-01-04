@@ -1,0 +1,11 @@
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\bin\x64\Debug\SampleHookingApp.exe.config
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\bin\x64\Debug\SampleHookingApp.exe
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\bin\x64\Debug\SampleHookingApp.pdb
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\bin\x64\Debug\Kennedy.ManagedHooks.dll
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\bin\x64\Debug\Kennedy.ManagedHooks.pdb
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\obj\x64\Debug\Kennedy.ManagedHooks.SampleHookingApp.AboutForm.resources
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\obj\x64\Debug\Kennedy.ManagedHooks.SampleHookingApp.MainForm.resources
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\obj\x64\Debug\SampleHookingApp.csproj.GenerateResource.Cache
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\obj\x64\Debug\SampleHookingApp.exe
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\obj\x64\Debug\SampleHookingApp.pdb
+C:\repo\qlinerhotkeys\SystemHooksVS2010\SampleHookingApp\obj\x64\Debug\SampleHookingApp.csprojResolveAssemblyReference.cache

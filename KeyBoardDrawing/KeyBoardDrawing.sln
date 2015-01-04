@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardDrawing", "KeyboardDrawing.csproj", "{9BD2D804-AC84-41C6-A581-AC28889A34AE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyBoardDrawingLib", "..\KeyBoardDrawingLib\KeyBoardDrawingLib.csproj", "{56A4F079-DD7D-4301-AE5C-608C12AE9B67}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9BD2D804-AC84-41C6-A581-AC28889A34AE}.Debug.ActiveCfg = Debug|.NET
+		{9BD2D804-AC84-41C6-A581-AC28889A34AE}.Debug.Build.0 = Debug|.NET
+		{9BD2D804-AC84-41C6-A581-AC28889A34AE}.Release.ActiveCfg = Release|.NET
+		{9BD2D804-AC84-41C6-A581-AC28889A34AE}.Release.Build.0 = Release|.NET
+		{56A4F079-DD7D-4301-AE5C-608C12AE9B67}.Debug.ActiveCfg = Debug|.NET
+		{56A4F079-DD7D-4301-AE5C-608C12AE9B67}.Debug.Build.0 = Debug|.NET
+		{56A4F079-DD7D-4301-AE5C-608C12AE9B67}.Release.ActiveCfg = Release|.NET
+		{56A4F079-DD7D-4301-AE5C-608C12AE9B67}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

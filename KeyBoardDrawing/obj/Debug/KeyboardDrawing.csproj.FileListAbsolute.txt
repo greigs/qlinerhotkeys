@@ -1,0 +1,12 @@
+C:\repo\qlinerhotkeys\KeyBoardDrawing\obj\Debug\KeyboardDrawing.LayoutDesignerForm.resources
+C:\repo\qlinerhotkeys\KeyBoardDrawing\obj\Debug\KeyboardDrawing.csproj.GenerateResource.Cache
+C:\repo\qlinerhotkeys\KeyBoardDrawing\bin\Debug\KeyBoardDrawing.exe
+C:\repo\qlinerhotkeys\KeyBoardDrawing\bin\Debug\KeyBoardDrawing.pdb
+C:\repo\qlinerhotkeys\KeyBoardDrawing\bin\Debug\HotKeysLib.dll
+C:\repo\qlinerhotkeys\KeyBoardDrawing\bin\Debug\Kennedy.ManagedHooks.dll
+C:\repo\qlinerhotkeys\KeyBoardDrawing\bin\Debug\HotKeysLib.pdb
+C:\repo\qlinerhotkeys\KeyBoardDrawing\obj\Debug\KeyboardDrawing.csprojResolveAssemblyReference.cache
+C:\repo\qlinerhotkeys\KeyBoardDrawing\obj\Debug\KeyBoardDrawing.exe
+C:\repo\qlinerhotkeys\KeyBoardDrawing\obj\Debug\KeyBoardDrawing.pdb
+C:\repo\qlinerhotkeys\KeyBoardDrawing\bin\Debug\KeyBoardDrawing.exe.config
+C:\repo\qlinerhotkeys\KeyBoardDrawing\bin\Debug\Kennedy.ManagedHooks.pdb
