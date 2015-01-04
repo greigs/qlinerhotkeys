@@ -221,7 +221,39 @@ namespace HotKeysLib.OnScreenKeyboard
 					    if (!key.IsPlaceHolder)
 					    {
                             renderKey(bufferGraphics, key, new PointF((keyLocation.X + edgeResultantOffset) * 100, (keyLocation.Y + edgeResultantOffset) * 100), this.outerPen.Color);
-                            renderKeyToFile(key, this.outerPen.Color, "c:\\temp2\\" + key.Key + ".png");
+
+                            var text = key.ScanCode == 0 ? key.Key.ToString() : (string)((Hashtable)this.language[this.shiftState])[key.ScanCode];
+        
+                            bool isUppercase = (text.Length == 1 && text.ToLowerInvariant() != text);
+                            string name = text.ToLowerInvariant() + (isUppercase ? "u" : string.Empty);
+                            string invalidChars = System.Text.RegularExpressions.Regex.Escape( new string( System.IO.Path.GetInvalidFileNameChars() ) );
+                            string invalidRegStr = string.Format( @"([{0}]*\.+$)|([{0}]+)", invalidChars );
+					        if (text == "@")
+					        {
+					            name = "at";
+					        }
+                            else if (name == " ")
+                            {
+                                name = "space";
+                            }
+                            else if (name == "/")
+                            {
+                                name = "forwardslash";
+                            }
+                            else if (name == "\\")
+                            {
+                                name = "backslash";
+                            }
+                            else if (name == "£")
+                            {
+                                name = "pound";
+                            }
+
+                            name =  System.Text.RegularExpressions.Regex.Replace( name, invalidRegStr, "_" );
+
+
+                            
+                            renderKeyToFile(key, this.outerPen.Color, "c:\\temp2\\" + name + ".png");
 
 					    }
 							
