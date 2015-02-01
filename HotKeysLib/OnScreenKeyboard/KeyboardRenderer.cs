@@ -253,7 +253,7 @@ namespace HotKeysLib.OnScreenKeyboard
 
 
                             
-                            renderKeyToFile(key, this.outerPen.Color, "c:\\temp2\\" + name + ".png");
+                            //renderKeyToFile(key, this.outerPen.Color, "c:\\temp2\\" + name + ".png");
 
 					    }
 							

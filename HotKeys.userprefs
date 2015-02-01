@@ -1,9 +1,24 @@
-﻿<Properties StartupItem="HotKeys\HotKeys.csproj">
+﻿<Properties StartupItem="HotKeys/HotKeys.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HotKeys\HotKeysInstaller.resx">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotKeysLib/OnScreenKeyboard/KeyboardRenderer.cs">
     <Files>
-      <File FileName="HotKeys\HotKeysInstaller.resx" Line="25" Column="25" />
+      <File FileName="HotKeys/HotKeys.csproj" Line="8" Column="8" />
+      <File FileName="HotKeysLib/HotKeysLib.csproj" Line="17" Column="17" />
+      <File FileName="HotKeysLib/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="HotKeys/SingleInstanceApplication.cs" Line="28" Column="28" />
+      <File FileName="HotKeysLib/OnScreenKeyboard/KeyboardLayout.cs" Line="1" Column="1" />
+      <File FileName="HotKeysLib/OnScreenKeyboard/KeyboardRenderer.cs" Line="104" Column="104" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="HotKeys" expanded="True" selected="True" />
+          <Node name="HotKeysLib" expanded="True">
+            <Node name="OnScreenKeyboard" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
