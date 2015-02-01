@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
-using Kennedy.ManagedHooks;
+//using Kennedy.ManagedHooks;
 using HotKeysLib.UI.Forms;
 using HotKeysLib.OnScreenKeyboard;
 
@@ -82,7 +82,7 @@ namespace HotKeysLib
 			this.ShowInTaskbar = true;
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "HotKeyListner";
-			this.Closing += new System.ComponentModel.CancelEventHandler(this.HotKeyListner_Closing);
+			//this.Closing += new System.ComponentModel.CancelEventHandler(this.HotKeyListner_Closing);
 			this.Load += new System.EventHandler(this.HotKeyListner_Load);
 
 		}
@@ -224,10 +224,10 @@ namespace HotKeysLib
 
 			// Set hook for continous winkey down detection
 			IntPtr appInstance = GetApplicationInstance();
-			keyboardHook = new Kennedy.ManagedHooks.KeyboardHook();
-			keyboardHook.KeyboardEvent += new Kennedy.ManagedHooks.KeyboardHook.KeyboardEventHandler(keyboardHook_KeyboardEvent);
+			//keyboardHook = new Kennedy.ManagedHooks.KeyboardHook();
+			//keyboardHook.KeyboardEvent += new Kennedy.ManagedHooks.KeyboardHook.KeyboardEventHandler(keyboardHook_KeyboardEvent);
 			
-			keyboardHook.InstallHook();
+			//keyboardHook.InstallHook();
 
 			// Register system even to monitor for resolution or orientation changes
 			Microsoft.Win32.SystemEvents.DisplaySettingsChanged +=new EventHandler(SystemEvents_DisplaySettingsChanged);
@@ -265,12 +265,11 @@ namespace HotKeysLib
 			return (KeyBoardForm.GetKeyBoardForm().Visible == true && KeyBoardForm.GetKeyBoardForm().Opacity == 1);
 		}
 
-		private Kennedy.ManagedHooks.KeyboardHook keyboardHook = null;
 		private bool winKeyDown = false;
 		private DateTime winKeyDownTime;
 		// private KeyBoardForm keyBoardForm = KeyBoardForm.GetKeyBoardForm();
 		private bool dropForm = false;
-		private void keyboardHook_KeyboardEvent(Kennedy.ManagedHooks.KeyboardEvents kEvent, Keys key)
+	/*	private void keyboardHook_KeyboardEvent(Kennedy.ManagedHooks.KeyboardEvents kEvent, Keys key)
 		{
 			if(key == Keys.LWin || key == Keys.RWin)
 			{
@@ -349,7 +348,7 @@ namespace HotKeysLib
 		private void HotKeyListner_Closing(object sender, System.ComponentModel.CancelEventArgs e)
 		{
 			keyboardHook.UninstallHook();
-		}
+		}*/
 
 		private void SystemEvents_DisplaySettingsChanged(object sender, EventArgs e)
 		{
